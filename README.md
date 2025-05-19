@@ -36,6 +36,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+![image](https://github.com/user-attachments/assets/ada90e7f-52c9-4cb9-8fba-92ccb4c87509)
 
 
 
